@@ -1,5 +1,5 @@
 # Mail_Merge
-If you have plenty of initations to write, we have a solution. This project helps us to write numerous invitations without much work. This is created with the help of concepts of file handling, we are using local files in this project. 
+If you have plenty of invitations to write, we have a solution. This project helps us to write numerous invitations without much work. This is created with the help of concepts of file handling, we are using local files in this project. 
 
 # Description
 
